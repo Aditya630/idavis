@@ -1,0 +1,26 @@
+Home page:- cachy tagline,information about service and idaavis development board
+ About us, 
+contact us contain information about location address contact number whatsapp number [location: contain screenshot of map ]
+Products :- Link to youtube product video and product desciption, android app link and description
+
+for product add information about how to connect avrdude with atmel studio and give links to download custom header files
+social site:- link to idaavis youtube channel,facebook  instagram link and some posts
+
+
+************************************************************************************For github webhosting
+
+1] make new repository
+2] install and run git bash by right click on folder where 'index' file is present
+3] git init
+4] git status
+5] git remote add origin <link address specified by repository> incase if not work first type 'git remote remove origin' then type above command
+6] git add .
+7] git commit -m "first website" .
+8]git push -u origin master
+
+after pushing all data into repository
+
+ go to setting >>> git page >>> change none to master branch
+it will give you link
+Done
+************************************************************************************
